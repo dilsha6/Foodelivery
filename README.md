@@ -163,6 +163,16 @@ This project was supported by **ChatGPT** and **Github Copilot**:
 **Dilsha K**
 
 Backend + Frontend Integration | React Native + Node.js + PostgreSQL  
-Project built as part of full-stack learning and self-initiated portfolio.
+Project built as part of full-stack learning and a self-initiated portfolio.
 
 ---
+![photo_2025-07-05_21-02-18](https://github.com/user-attachments/assets/1df6934d-fdbc-4a4b-8ad6-ff646586ba33)
+![photo_2025-07-05_21-03-29](https://github.com/user-attachments/assets/7825b9a2-8e19-47a2-9949-1831d35b2ba4)
+![photo_2025-07-05_21-03-37](https://github.com/user-attachments/assets/6bb97716-486b-429a-88ad-16395a2197f7)
+![photo_2025-07-05_21-03-44](https://github.com/user-attachments/assets/afefdada-f188-47fe-9e90-2e3a5df355c7)
+![photo_2025-07-05_21-03-50](https://github.com/user-attachments/assets/861665e3-f305-4068-b01e-f3b74d63e877)
+
+
+
+
+
